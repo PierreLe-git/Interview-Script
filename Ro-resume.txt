@@ -10,7 +10,6 @@ in React, TypeScript, Node.js, cloud architectures, and CI/CD, and motivated to 
 at an innovative, fast-moving company.
 --------------
 EXPERIENCE:
-
 --Founding Engineer - Web Development--
 -Ro(Roman)
 08/2020 – Present
@@ -72,7 +71,6 @@ DevOps teams.
 ---------------------------
 
 --TECH SKILLS--
-
 Frontend: React, Next.js, TypeScript, JavaScript (ES6+), Redux, HTML5, CSS3/SCSS, Responsive Design, SPA Architecture, jQuery, WCAG Accessibility
 
 Backend: Node.js, GraphQL, REST APIs, Java (API integrations), Microservices, Real-time Communication
@@ -90,4 +88,5 @@ Tools & Workflow: Git, Agile/Scrum, Jira, Cross-Functional Collaboration, Team L
 -------------------
 -- EDUCATION --
 2011 – 2015 Bachelor's Degree in Computer Science
+
 University of California, Berkeley
