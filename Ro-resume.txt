@@ -1,0 +1,93 @@
+Pierre Le- Senior Software Engineer
+-------------------------------------
+pierrele37@outlook.com    Plano, TX
+--------------
+SUMMARY:
+-Senior Software Engineer with extensive experience building scalable web platforms across healthcare,
+fintech, and cloud-based software. Developed core Creative Cloud features at Adobe, delivered high-impact
+financial services at SoFi, and led major patient-platform improvements at Ro during its rapid growth. Strong
+in React, TypeScript, Node.js, cloud architectures, and CI/CD, and motivated to contribute senior-level impact
+at an innovative, fast-moving company.
+--------------
+EXPERIENCE:
+
+--Founding Engineer - Web Development--
+-Ro(Roman)
+08/2020 – Present
+•Joined Ro as a founding web engineer during a critical growth phase, leading the design and development of
+scalable telehealth and online pharmacy web platforms.
+•Architected and built a modern, responsive single-page application using React, Next.js, and TypeScript,
+delivering personalized patient experiences and seamless care navigation.
+•Developed backend services with Node.js, GraphQL, and REST APIs, enabling secure, real-time
+communication between patients, providers, and pharmacy logistics.
+•Spearheaded the implementation of robust CI/CD pipelines leveraging GitHub Actions, Docker, and
+Kubernetes, reducing deployment times and improving platform reliability amid rapid scaling.
+•Collaborated cross-functionally with product managers, medical teams, designers, and security experts to
+ensure HIPAA compliance and optimize user experience across web and mobile.
+•Led performance optimizations that decreased page load times by 35% and introduced automated testing
+frameworks (Jest, Cypress) to boost code quality and reduce bugs by 50%.
+•Mentored and grew the frontend engineering team from 3 to 15 engineers, establishing best practices for
+code reviews, accessibility (WCAG), and maintainability.
+•Championed cloud infrastructure on AWS, utilizing services such as EC2, S3, RDS, and Lambda to ensure
+scalability and data security across Ro’s healthcare platform.
+•Played a key role in launching new service lines, including mental health and women’s health, by designing
+flexible, reusable web components and APIs.
+-//-
+--Software Engineer--
+-SoFi
+06/2017 – 07/2020
+•Developed and maintained scalable full-stack fintech applications using React, Redux, and TypeScript for
+frontend, integrating with secure Node.js backend services.
+•Collaborated closely with product and design teams to build seamless user experiences for personal finance,
+lending, and investment platforms, serving millions of users.•Designed and implemented RESTful and GraphQL APIs supporting loan processing, user authentication, and
+real-time data updates.
+•Improved application performance and reliability through code optimization, caching strategies with Redis,
+and database tuning on PostgreSQL.
+•Automated deployment pipelines using Jenkins and Docker, enhancing continuous integration and delivery
+across multiple environments.
+•Participated in rigorous code reviews and testing using Jest and Cypress to ensure high-quality releases
+and regulatory compliance.
+•Worked within an Agile/Scrum framework, contributing to sprint planning, backlog refinement, and crossteam collaboration.
+•Supported migration efforts to cloud infrastructure on AWS, leveraging services like EC2, S3, and RDS for
+scalability and security.
+-//-
+--Junior Software Engineer--
+-Adobe
+11/2015 – 05/2017
+•Joined Adobe as a junior web developer focusing on the modernization of legacy desktop applications to
+cloud-based web solutions within the Creative Cloud suite.
+•Developed interactive frontend features using JavaScript, jQuery, and early adoption of React to enhance
+user experience and responsiveness.
+•Collaborated closely with UI/UX designers to implement pixel-perfect interfaces and improve cross-browser
+compatibility.
+•Assisted backend teams by integrating RESTful APIs developed in Java and Node.js to deliver dynamic
+content and cloud service functionalities.
+•Participated in agile ceremonies, contributing to sprint planning, daily standups, and retrospectives,
+fostering a collaborative development environment.
+•Worked on performance optimization and refactoring legacy code, improving page load times by 20%.
+•Contributed to setting up automated testing pipelines using Jest and Selenium to increase code coverage
+and reduce regressions.
+•Gained experience with Adobe’s internal cloud infrastructure and deployment processes, working alongside
+DevOps teams.
+---------------------------
+
+--TECH SKILLS--
+
+Frontend: React, Next.js, TypeScript, JavaScript (ES6+), Redux, HTML5, CSS3/SCSS, Responsive Design, SPA Architecture, jQuery, WCAG Accessibility
+
+Backend: Node.js, GraphQL, REST APIs, Java (API integrations), Microservices, Real-time Communication
+
+Cloud & Infrastructure: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Redis, HIPAA-Compliant Architecture, Cloud Security
+
+DevOps & CI/CD: GitHub Actions, Jenkins, Docker, Kubernetes, Automated Deployment Pipelines, Logging & Monitoring
+
+Databases: PostgreSQL, Redis
+
+Testing & Quality: Jest, Cypress, Selenium, Automated Testing Frameworks, Code Review Best Practices
+
+Tools & Workflow: Git, Agile/Scrum, Jira, Cross-Functional Collaboration, Team Leadership, Mentoring
+
+-------------------
+-- EDUCATION --
+2011 – 2015 Bachelor's Degree in Computer Science
+University of California, Berkeley
